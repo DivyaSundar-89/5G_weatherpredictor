@@ -1,0 +1,6 @@
+area,lat,long,weather,temp,pressure,humidity,wind_speed,launchDrone
+Mylapore,13.0336191,80.2686031,Haze,300.15,1013,83,2.6,No
+Adyar,13.0011824,80.2564907,Haze,300.2,1013,83,2.6,No
+Anna Nagar,13.06938,80.21713,Haze,300.3,1013,83,2.6,No
+Indira Nagar,13.01595,80.26044,Haze,301,1013,83,2.6,No
+Thiruvanmiyur,12.982684,80.263369,Haze,300.3,1013,83,2.6,No
